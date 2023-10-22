@@ -4,3 +4,4 @@ Horiseon is an interactive website that allows business owners to create a platf
 ##usage 
 Below is a link to the website 
 
+https://nhaslag.github.io/Horiseon-Repo/
